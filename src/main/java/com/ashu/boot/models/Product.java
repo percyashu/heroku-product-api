@@ -21,7 +21,6 @@ public class Product {
 	private Integer quantity;
 	private Double price;
 	@ManyToOne
-	@Column( updatable = true, nullable = true)
 	private Category category;
 	
 	public Integer getId() {

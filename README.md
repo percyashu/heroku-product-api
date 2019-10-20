@@ -1,7 +1,7 @@
 # Heroku-product-api
 
 # Description
-Api to implement same functions of the ProductCatalog application.
+Api to implement same functions of the ProductCatalog application using and embedded H2 database.
 
 # Run Online
 It is deployed on heroku and it swagger ui is accessed through the following url online using https://product-api-gg-c.herokuapp.com/swagger-ui.html
@@ -14,6 +14,8 @@ It is deployed on heroku and it swagger ui is accessed through the following url
 3 Run as a spring boot app.
 
 4 Access swagger on localhost:8080/swagger-ui.html to see all end points.
+
+
  
 
 
